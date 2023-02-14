@@ -1,1 +1,1 @@
-BINARY TO DECIMAL
+combinations
