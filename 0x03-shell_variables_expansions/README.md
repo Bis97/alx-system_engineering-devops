@@ -1,1 +1,1 @@
-PATHS
+global variables
