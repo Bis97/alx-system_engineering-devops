@@ -1,1 +1,1 @@
-create global variable
+TRUE KNOWLEDGE
